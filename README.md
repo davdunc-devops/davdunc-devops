@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davdunc-devops
+- 👋 Hi, I’m David Duncan and this is my account @davdunc-devops
 - 👀 I’m interested in building in python, go and rust
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on anything related to ansible collections
